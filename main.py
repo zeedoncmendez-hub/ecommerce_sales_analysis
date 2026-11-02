@@ -1,5 +1,4 @@
-"""
-Main runner for E-Commerce Sales Analysis.
+
 
 Runs the four project scripts in order:
 1. clean.py
